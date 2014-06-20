@@ -19,3 +19,4 @@ virtualenv
 tx.exe
 .transifexrx
 source/i18n/*/conf.py
+.vagrant
